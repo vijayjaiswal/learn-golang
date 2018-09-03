@@ -6,8 +6,10 @@ import (
 
 func main() {
 	fmt.Printf("hello, world\n")
-	 values()
-	 printCurrentTime()
+	ifElseExample()
+	//forExample()
+	//values()
+	//printCurrentTime()
 }
 
 func values() {
