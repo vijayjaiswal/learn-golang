@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
+	// Uncomment the module you want to execute
+	
 	fmt.Printf("hello, world\n")
 	ifElseExample()
 	//forExample()

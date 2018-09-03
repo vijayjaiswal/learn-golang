@@ -27,7 +27,7 @@ func forExample(){
 		}
 	}
 	
-	// For continue
+	// For continue example
 	
 	for x:=10 ; x<=15 ; x++ {
 		if x%2 == 0 {

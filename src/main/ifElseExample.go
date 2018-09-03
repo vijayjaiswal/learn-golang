@@ -12,7 +12,7 @@ func ifElseExample(){
 	x = rand.Intn(5)
 	oddEvenCheck(x)
 	
-	// IF-ELSE-IF
+	// IF-ELSE-IF example
 	
 	if num := rand.Intn(50); num < 0 {
         fmt.Println(num, "is negative")
